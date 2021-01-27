@@ -1,4 +1,4 @@
-Bug Fix #2
+Bug Fix #3
 # Bitcoin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
